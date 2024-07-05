@@ -1,0 +1,30 @@
+{
+  "fallbackPages": {
+    "customProperties": {
+      "background-color": "#e5dcd4",
+      "border-color": "#4d429a",
+      "card-background-color": "#f8f1ff",
+      "card-box-shadow": "0px 8px 24px rgba(149, 157, 165, 0.2)",
+      "container-width": "1200px",
+      "icon-color": "#4d429a",
+      "primary-color": "#4d429a",
+      "tab-text-color": "#4d429a",
+      "text-color": "#2c1f36"
+    },
+    "templateStrings": {
+      "pageTitle": "451 Tools Dashboard",
+      "pageDescription": "You are on the offline dashboard of 451 Tools. This could be because you are facing an internet shutdown or your device is not connected to the internet. This dashboard keeps information available even when the website is censored or when the internet is down.<br />\r\n",
+      "aboutInnerHTML": "<p>Zamaneh Media's <a href='https://451.tools/' target='_blank'>451 Tools</a> implements website features that aid in the censorship resilience of your website. Besides helping publishers create mirrors, the full 451 suite also allows them to keep content available under heavily censored conditions.</p><p>The <strong>Bookmark</strong> feature allows readers to bookmark content on your website for offline reading.</p><p>The <strong>Editorial</strong> feature allows you to mark content for offline availability to your readers at any time.</p><p>Additionally, the full 451 Tools suite also allows you to customise this dashboard as well as enable custom 404 page for when your readers try to reach you through referral links on search engines and elsewhere.</p><p>To get access to the full 451 Tools suite or enquire about it, please reach out to <a href='mailto:contact@451.tools'>contact@451.tools</a>.</p>",
+      "copyright": "Copyright \u00a9 2023. All rights reserved."
+    },
+    "showHiddenTabs": true
+  },
+  "mirroring": {
+    "urls": [],
+    "excludeByPath": [
+      "^/wp-admin/?.*",
+      "^/wp-login\\.php$"
+    ],
+    "timeout": 3000
+  }
+}
