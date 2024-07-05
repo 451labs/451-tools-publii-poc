@@ -56,7 +56,7 @@
     ]
   },
   "mirroring": {
-    "urls": [],
+    "urls": ["https://451-tools-publii-poc.pages.dev/"],
     "excludeByPath": [
       "^/wp-admin/?.*",
       "^/wp-login\\.php$"
