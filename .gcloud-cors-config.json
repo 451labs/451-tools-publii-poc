@@ -1,0 +1,8 @@
+[
+    {
+      "origin": ["https://303.tools"],
+      "method": ["GET"],
+      "responseHeader": ["Content-Type", "X-Repress", "X-Repress-Mode"],
+      "maxAgeSeconds": 3600
+    }
+]
